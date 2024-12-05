@@ -1,43 +1,33 @@
 const songs = [
   {
-    title: "Dekha hain ek khwab",
-    src: "songs/dekha_hai_ek_khwab.mp3",
+    title: "Song1",
+    src: "songs/song1.mp3",
     artist: "Artist 1"
   },
   {
-    title: "Chandani meri chandini",
-    src: "songs/chandani_meri_chandini.mp3",
+    title: "Song2",
+    src: "songs/song2.mp3",
     artist: "Artist 2"
   },
   {
-    title: "Aankh hain bhari bhari",
-    src: "songs/aankh_hai_bhari_bhari.mp3",
+    title: "Song3",
+    src: "songs/song3.mp3",
     artist: "Artist 3"
   },
   {
-    title: "Dil deewana",
-    src: "songs/dil_deewana.mp3",
+    title: "Song4",
+    src: "songs/song4.mp3",
     artist: "Artist 4"
   },
   {
-    title: "Dil ne dil se kya kaha",
-    src: "songs/dil_ne_dil_se_kya_kaha.mp3",
+    title: "Song5",
+    src: "songs/song5.mp3",
     artist: "Artist 5"
   },
   {
-    title: "Gori hai kalaiya",
-    src: "songs/gori_hai_kalaiya.mp3",
+    title: "Song6",
+    src: "songs/song6.mp3",
     artist: "Artist 6"
-  },
-  {
-    title: "Hum tumhe itna pyaar karenge",
-    src: "songs/hum_tumhe_itna_pyaar_karenge.mp3",
-    artist: "Artist 7"
-  },
-  {
-    title: "Mein tere ishq mein.",
-    src: "songs/mein_tere_ishq_mein.mp3",
-    artist: "Artist 8"
   },
 ];
 
